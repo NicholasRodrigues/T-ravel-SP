@@ -19,3 +19,7 @@
   - Gurobi or CPLEX
 
 ### Google Maps or OpenStreetMap
+
+### Contributors:
+    - `Nicholas Rodrigues`
+    - `Luigi Schmitt`
